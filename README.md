@@ -19,13 +19,6 @@ working materials.
 - `civics_legacy_extract.md`
   A short earlier extract of important ideas from the raw notes.
 
-## Archive Material
-
-- `archive_split_notes/`
-  The old split-up archive chunks of the full notes.
-- `archive_split_notes/simplified/`
-  Older simplified chunk outputs derived from the split notes.
-
 ## Reading Order
 
 1. `civics_book.md`
