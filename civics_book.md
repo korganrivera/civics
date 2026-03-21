@@ -460,8 +460,7 @@ also closer to what actual shared life requires.
 
 ## Chapter 9: Continuity Under Catastrophe
 
-One of the strongest branches in the archive is CUC: Continuity Under
-Catastrophe.
+One of the strongest branches in the archive is Continuity Under Catastrophe.
 
 This branch asks a brutal but necessary question:
 
@@ -472,7 +471,7 @@ The answer Civics tries to build is this:
 
 culture must be able to carry what code can no longer carry
 
-### CUC Goals
+### Catastrophe Continuity Goals
 
 - preserve civic memory when digital memory breaks
 - make provisional trust possible under uncertainty
@@ -480,7 +479,7 @@ culture must be able to carry what code can no longer carry
 - let people reenter collective life after disruption
 - preserve fairness under ambiguity
 
-### CUC Mechanisms
+### Catastrophe Continuity Mechanisms
 
 The archive proposes many low-tech continuity tools:
 
