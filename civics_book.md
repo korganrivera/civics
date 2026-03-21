@@ -691,6 +691,15 @@ starting range is roughly 4 to 12 people, depending on the domain.
 What matters most is not size. It is repeated contact, enough trust to attempt
 experiments, and enough diversity of function for the system to learn.
 
+In practice, the very first functioning node may be even smaller and less
+romantic than readers expect. It may begin as a household site with a real
+material base: land, food production, recurring maintenance, storage, animal
+care, and one or two people already carrying the system through repetition.
+
+That still counts. A Civic node does not need to look like a commune in order
+to be real. If a household can make its own loops more legible, more coherent,
+and more shareable, it can become Node Zero.
+
 ### Minimum Viability Requirements
 
 The archive contains a more concrete bootstrap threshold list that should stay
@@ -902,6 +911,10 @@ A practical Civic node should maintain:
 - an onboarding path
 - a periodic reflection ritual
 - a fallback mode for AI or tool loss
+
+It should also maintain a visible bridge between reflection and action.
+Summaries should not remain passive descriptions. They should help generate the
+next useful tasks.
 
 ### Starter Ritual Kit
 
@@ -1187,6 +1200,13 @@ particular intervention repeatedly helps, Auren should become more confident in
 offering it again. If an intervention creates friction, confusion, or
 resentment, it should back off and learn.
 
+This includes the cost of interruption itself. Auren should not only learn what
+to ask, but when to ask, how often to ask, and through which channel. If a
+person reliably responds well to a weekly check-in and badly to frequent
+interruptions, that is usable civic knowledge. If Auren notices complaints
+about its own cadence, that too is feedback and should shape its future
+behavior.
+
 The point is not to script every future behavior in advance. The point is to
 give Auren sound foundations and then let it learn the node it is serving.
 
@@ -1223,6 +1243,27 @@ The notes repeatedly emphasize that a turn-based or chat-driven Auren may be
 good enough for many early functions, especially rupture repair, logging,
 tracking, and project coordination.
 
+Just as important, early Civics should avoid turning members into clerks of
+their own lives. If the system requires constant form-filling, schema tending,
+and obsessive manual bookkeeping, it will compete with the real work it was
+meant to support.
+
+The better principle is simple:
+
+humans should report in the easiest useful form
+Auren should do the heavier work of parsing, linking, summarizing, and asking
+for clarification when needed
+
+That means low-friction input is not a convenience feature. It is part of the
+core viability of the system.
+
+Over time, the preferred pattern may become conversational rather than clerical.
+Instead of asking members to update many files by hand, Auren can debrief with
+them in ordinary language, ask follow-up questions when something matters, and
+then update the underlying memory on their behalf. If someone says they moved
+most of Bay 1 to Bay 2 but were too tired to finish, Auren should be able to
+record that in the compost diary without requiring a second round of paperwork.
+
 ### Auren As Project Manager, Facilitator, And Member
 
 One strong line from the archive says the AI was never supposed to be a boss. It
@@ -1250,6 +1291,11 @@ This is why a smart kanban board is such a strong early component. Auren does
 not need to begin as a god system. It can begin by helping the node keep work
 legible: what exists, what depends on what, what is blocked, who is overloaded,
 where handoff is needed, and where small failures are accumulating into drift.
+
+That also means Auren should read the live work state, not merely the slower
+memory files. Diaries, ledgers, and weekly summaries show one side of the node.
+The kanban shows another: what is actually moving, waiting, blocked, aging, or
+being ignored. Auren needs both.
 
 ### Auren Now
 
@@ -1287,6 +1333,27 @@ patterns, and feeding guidance back into the system.
 
 Chat is where signals first appear. The kanban layer is where work becomes
 legible. The log is where memory stabilizes. Auren is what connects them.
+
+The weekly summary layer is especially important because it can serve as the
+turning point between observation and action. A good summary does not only say
+what happened. It also exposes what now needs doing. Those candidate actions
+can then be proposed to the kanban, reviewed by humans, and folded back into
+the next cycle of work.
+
+This also means Auren should not wait passively for perfect input. If something
+important has gone quiet, or if a critical domain has not been mentioned for a
+while, Auren should be able to ask.
+
+It might send a message in the group's normal communication channel, raise the
+question during a terminal check-in, or include a prompt in a weekly summary:
+
+- how is the compost doing
+- did the irrigation issue get resolved
+- are egg numbers still tracking expectation
+
+That is not nagging for its own sake. It is part of maintaining civic
+awareness. Auren should help the node notice what has gone missing from
+attention before that absence becomes drift or failure.
 
 ### Minimal Auren Project Loop
 
